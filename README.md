@@ -1,0 +1,2 @@
+# KATA
+Ejercicios de kata
